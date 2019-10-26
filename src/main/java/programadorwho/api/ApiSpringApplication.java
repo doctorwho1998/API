@@ -8,7 +8,7 @@ public class ApiSpringApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ApiSpringApplication.class, args);
-		System.out.println("Test build travis");
+		System.out.println("Test build travis - 2");
 	}
 
 }
